@@ -11,7 +11,7 @@ Example usage:
     $ ls
     Procfile  package.json  app.ts
 
-    $ heroku create --stack cedar --buildpack https://github.com/pk11/heroku-buildpack-typescript.git
+    $ heroku create --stack cedar --buildpack https://github.com/TheSufferfest/heroku-buildpack-typescript.git
 
     $ git push heroku master
     ...
